@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, EagleEyeActivity!</string>
+    <string name="app_name">EagleEye</string>
+    <string name="EagleEye">Eagle Eye</string>
+    <string name="login">Login</string>
+
+</resources>
